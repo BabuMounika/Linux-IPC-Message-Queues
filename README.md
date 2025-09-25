@@ -90,5 +90,6 @@ int main()
 ## OUTPUT
 
 <img width="1027" height="743" alt="Screenshot 2025-09-25 081634" src="https://github.com/user-attachments/assets/14a4c09d-1f86-43b6-9971-2997f8cbedd1" />
-# RESULT:
+
+## RESULT:
 The programs are executed successfully.
